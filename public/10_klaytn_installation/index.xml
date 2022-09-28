@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Klaytn_Installation on Klaytn CCO Onboarding - Baobab</title>
+    <link>/10_klaytn_installation/</link>
+    <description>Recent content in Klaytn_Installation on Klaytn CCO Onboarding - Baobab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Sep 2022 17:44:42 +0900</lastBuildDate><atom:link href="/10_klaytn_installation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Requirement</title>
+      <link>/10_klaytn_installation/10_requirement/</link>
+      <pubDate>Tue, 20 Sep 2022 17:44:45 +0900</pubDate>
+      
+      <guid>/10_klaytn_installation/10_requirement/</guid>
+      <description>1. System Requirement ( for cloud ) Recommended Specification for AWS Node Type | Model | vCPU | Memory (GiB) | Storage size (GiB) | Storage speed (IOPS) | Price (Seoul region, USD/h) CN | c5.18xlarge | 72 | 144 | 3,000 (Minimum) | 3,000 (Minimum) | 3.456 PN | m5.8xlarge | 32 | 128 | 3,000 (Minimum) | 3,000 (Minimum) | 1.888 Recommended Specification for Azure Node Type | Model | vCPU | Memory (GiB) | Storage size (GiB) | Storage speed (IOPS) | Price (Seoul Central, USD/h) CN | F72s v2 | 72 | 144 | P50 (4096) | 7500 | 3.</description>
+    </item>
+    
+    <item>
+      <title>Package Installation</title>
+      <link>/10_klaytn_installation/20_package_installation/</link>
+      <pubDate>Mon, 11 Jul 2022 19:18:57 +0900</pubDate>
+      
+      <guid>/10_klaytn_installation/20_package_installation/</guid>
+      <description>2. Installation of Klaytn packages for CN and PN ** We&amp;rsquo;ve already installed packages during the Pre-cypress stage. If you need to install newly, please refer these documents.
+1) CN - https://docs.klaytn.foundation/node/core-cell/installation-guide/consensus-node-setup/installation-guide 2) PN - https://docs.klaytn.foundation/node/core-cell/installation-guide/proxy-node-setup/installation-guide If you finish this step, please click the next button &amp;gt; on the right side of this page.</description>
+    </item>
+    
+  </channel>
+</rss>
