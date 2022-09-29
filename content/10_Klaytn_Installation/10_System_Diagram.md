@@ -12,6 +12,7 @@ draft: false
 >##### CCN consists of one CN node and two PN nodes.
 {{< line_break >}}
 ![CCN](/images/klaytn-1.png)
+![CCN](https://raw.githubusercontent.com/yoosuu/Test/main/static/images/klaytn-1.png)
 
 {{< line_break >}}
 {{< line_break >}}
