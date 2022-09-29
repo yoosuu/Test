@@ -1,6 +1,6 @@
-baseURL = "/klaytn-baobab-setup-workshop"
+baseURL = "/Test"
 languageCode = 'en-us'
-title = 'Klaytn CCO Onboarding - Baobab'
+title = 'Klaytn CCO Onboarding - Test'
 uglyurls = true
 canonifyURLs = true
 
