@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = '/Test'
 languageCode = 'en-us'
 title = 'Klaytn CCO Onboarding - Pre-Cypress'
 
